@@ -2,10 +2,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=soft&text=배지예&color=B2D7FC)
 </div>
-
-#
-
-
  <div align=center>
    
  ## ⭐사용하는 기술   
@@ -29,7 +25,7 @@
 
 <div align=center>
 
-  ###  ⭐사용해본 기술
+  ###  사용해본 기술
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
