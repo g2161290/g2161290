@@ -5,9 +5,10 @@
 
 #
 
- ## ⭐사용하는 기술
+
  <div align=center>
    
+ ## ⭐사용하는 기술   
   ### FRONT
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
