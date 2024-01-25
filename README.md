@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=soft&text=배지예&color=B2D7FC)
 </div>
- <div align=center>
+ <div align="center">
    
  ## ⭐사용하는 기술   
   ### FRONT
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7D358?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
-<div align=center>
+<div align="center">
   
   ### BACK
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 #
 
-<div align=center>
+<div align="center">
 
   ###  사용해본 기술
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -34,4 +34,9 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
 
+#
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2161290&show_icons=true&theme=radical)
+</div>
 #
